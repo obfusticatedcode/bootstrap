@@ -13,7 +13,7 @@
 .footer {
   background-color: #D1C4E9;
   margin: 0 auto;
-  padding: 20px 0 20 0;
+  padding: 20px 0 20px 0;
 }
 
 .jumbotron {
@@ -21,6 +21,10 @@
   margin: 0 auto;
   background: #9575CD;
   color: floralwhite;
+}
+
+.corporate-leadership {
+  font-size: 21px;
 }
 
 .social-links {

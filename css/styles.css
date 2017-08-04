@@ -36,3 +36,12 @@ address {
   margin: 0;
   color: #0f0f0f;
 }
+
+body {
+  padding-top: 50px;
+  z-index: 0;
+}
+
+.navbar-inverse {
+  background-color: #512DA8;
+}
